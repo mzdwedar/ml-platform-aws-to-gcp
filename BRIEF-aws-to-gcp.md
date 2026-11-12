@@ -1,6 +1,6 @@
 # ML Platform: AWS → GCP Translation Brief
 
-**Author:** Mohamed Zeyad · **Date:** 2026-11-08 · **Details and sources:** [AWS-to-GCP-service-map.md](AWS-to-GCP-service-map.md)
+**Author:** Mohamed Dwedar · **Date:** 2026-11-08 · **Details and sources:** [AWS-to-GCP-service-map.md](AWS-to-GCP-service-map.md)
 
 ## Approach
 
